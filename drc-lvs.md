@@ -43,12 +43,6 @@ Ensures that the netlist extracted from layout matches the design schematic:
 
 ---
 
-## Interview Real Talk
-
-> “I’ve cleaned up hundreds of DRCs—spacing, enclosure, fill-related. On the LVS side, I’ve handled shorts from misaligned pins and seen parasitic nets appear due to misdrawn vias. You learn to check pins, labels, and well ties before even running the tool.”
-
----
-
 ### Pro Tip
 
 Always rerun DRC and LVS after:
@@ -59,6 +53,3 @@ Always rerun DRC and LVS after:
 
 DRC and LVS failures at tape-in = delay + budget bleed. Catch it early, fix it clean, sleep at night.
 
----
-
-*PDEs who understand what breaks in layout don’t just push blocks—they prevent rework.*
