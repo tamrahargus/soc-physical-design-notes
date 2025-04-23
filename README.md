@@ -4,13 +4,10 @@ This repo is part of my prep for upcoming Physical Design Engineering (PDE) inte
 
 ---
 
-## Focus Areas for PDE Interviews
+## 📂 Contents
 
-- **Top-Level Integration**
-
-
-- **Power Grid and IR Drop**
-
-
-- **LVS / DRC Checks**
-
+- [Top-Level Integration](./top-level-integration.md)
+- [Power Planning & IR Drop](./power-planning.md)
+- [LVS & DRC Strategy](./lvs-drc-checks.md)
+- [ECO Flows & Last-Minute Fixes](./eco-flow-notes.md)
+- [Hard IP & Analog Block Integration](./hard-ip-alignment.md)
