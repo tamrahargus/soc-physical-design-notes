@@ -1,0 +1,3 @@
+# Power Planning & IR Drop
+
+Notes in progress...
