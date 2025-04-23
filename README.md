@@ -1,11 +1,17 @@
-# SoC Physical Design Interview Prep
+# SoC Physical Design Notes
 
-This repo is part of my prep for upcoming Physical Design Engineering (PDE) interviews—especially focused on SoC-level layout, integration workflows, and key sanity checks. These notes reflect my background in full-chip layout and my transition from analog to top-level physical design environments.
 
----
 
 ## 📂 Contents
 
+- [ASIC Design Flow](./asic-design-flow.md)
+- [Timing Analysis](./timing-analysis.md)
+- [DRC & LVS Strategy](./drc-lvs.md)
+- [Power Planning](./power-planning.md)
+- [Signal Integrity](./signal-integrity.md)
+
+
+coming soon... 
 - [Top-Level Integration](./top-level-integration.md)
 - [Power Planning & IR Drop](./power-planning.md)
 - [LVS & DRC Strategy](./lvs-drc-checks.md)
